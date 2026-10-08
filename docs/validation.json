@@ -1,0 +1,47 @@
+{
+  "eligible": 6,
+  "data_exceptions": 3,
+  "shortlist": [
+    {
+      "player": "Remy Vale",
+      "score": 75.50000000000001,
+      "commitment": 7132000
+    },
+    {
+      "player": "Marco Linden",
+      "score": 73.50000000000001,
+      "commitment": 3460000
+    },
+    {
+      "player": "Alex Moreau",
+      "score": 73.50000000000001,
+      "commitment": 3660000
+    },
+    {
+      "player": "Hugo West",
+      "score": 68,
+      "commitment": 6932000
+    },
+    {
+      "player": "Sam Larkin",
+      "score": 65,
+      "commitment": 3460000
+    },
+    {
+      "player": "Tomas Reed",
+      "score": 56.50000000000001,
+      "commitment": 7132000
+    }
+  ],
+  "checks": [
+    "independent shortlist and scores",
+    "missing fee excluded",
+    "duplicate IDs excluded",
+    "zero budget empty state",
+    "invalid weight total blocks shortlist",
+    "duplicate comparison refused",
+    "restored default controls",
+    "formula error scan"
+  ],
+  "charts": 3
+}
